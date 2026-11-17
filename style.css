@@ -1,12 +1,12 @@
 body {
-    background-color: #000000;
+    background-color: #f0f0f0;
     text-align: center;
     font-family: Arial, sans-serif;
     margin-top: 100px;
 }
 
 h1 {
-    color: #000000;
+    color: #333333;
     font-size: 35px;
 
 }
@@ -21,7 +21,7 @@ h1 {
 .social-icons img {
     width: 55px;
     height: 55px;
-    transition: transform 0.3s ease;
+    transition: transform 0.3s s;
 }
 
 .social-icons img:hover {
