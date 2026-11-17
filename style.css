@@ -19,9 +19,9 @@ h1 {
 }
 
 .social-icons img {
-    width: 55px;
-    height: 55px;
-    transition: transform 0.3s s;
+    width: 40px;
+    height: 40px;
+    transition: transform 0.3s ease;
 }
 
 .social-icons img:hover {
