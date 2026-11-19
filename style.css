@@ -6,6 +6,11 @@ body {
     
 }
 
+h1 {
+    color: #333333;
+    font-size: 35px;
+    margin-bottom: 20px;
+}
 
 social-icons {
     margin-top: 40px;
